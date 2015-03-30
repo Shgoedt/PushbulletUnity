@@ -20,7 +20,7 @@ public sealed class Pushbullet : MonoBehaviour
 	/// <summary>
 	/// The API key.
 	/// </summary>
-	public static string apiKey = "mULqwU4IUQpt2005uhWSoU3GdMO97K8I";
+	public static string apiKey = "jafhxPkv1qGhbYzjZxJTbeEkQuNSyl9f";
 
 	/// <summary>
 	/// The authorization header.
